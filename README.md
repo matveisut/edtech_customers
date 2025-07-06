@@ -1,31 +1,24 @@
-# Machine-Learning--Potential-Customers-Prediction
+# Машинное обучение - прогнозирование потенциальных клиентов
 
-An online education company was trying to convert their customers (lead) to paid customers. 
+Компания, занимающаяся онлайн-образованием, пыталась превратить своих потенциальных клиентов в платящих.
 
-Main focuses of this project-
+Основной фокус этого проекта -
 
-  • Analyze and build an ML model to identify which leads are more likely to convert to paid customers.
-  
-  • Find the factors driving the lead conversion process
-  
-  • Create a profile of the leads that are likely to convert. 
+  - Анализ и построение ML-модели для определения того, какие лиды с большей вероятностью превратятся в платных клиентов.
+
+  - Выявить факторы, определяющие процесс конверсии лидов
+
+  - Создать профиль лидов, которые, скорее всего, будут конвертированы.
 
 
+  Сделайте значимые наблюдения о каждой переменной и взаимосвязи между ними.
 
-The primary goal of this project was to work with tree-based algorithms like Decision Trees and Random Forests to solve data science problems. 
+  Использование важности признаков для выявления значимых признаков.
 
-Highlights: 
+  Использовали модели "дерево решений" и "случайный лес" и оценивали их на основе точности, запоминания и f1-score.
 
-  ● Experienced working with Python libraries in jupyter notebook: numpy, pandas, seaborn, matplotlib, sklearn. 
-  
-  ● Provided comments on the visualization such as range of attributes, outliers of various attributes.
-  
-  ● Provided comments on the distribution of the variable.
-  
-  ● Used appropriate visualizations to identify the patterns and insights. 
-  
-  ● Found meaningful observations on individual variables and the relationship between variables. 
-  
-  ● Used feature importance to find out the significant features.
-  
-  ● Decision tree and random forest models were used and evaluated based on precision, recall and f1-score.
+*** Переведено с помощью www.DeepL.com/Translator (бесплатная версия) ***.
+
+*** Переведено с помощью www.DeepL.com/Translator (бесплатная версия) ***
+
+
